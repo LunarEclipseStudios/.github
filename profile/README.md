@@ -6,6 +6,12 @@
 ## Maps
 - [Mystery Manor](https://lunareclipse.studio/mystery-manor)
 
+## Fabric Mods
+ - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
+ - [From The Fog](https://lunareclipse.studio/from-the-fog)
+ - [Feathery Messengers](https://lunareclipse.studio/feathery-messengers)
+ - [Eternal Pets](https://lunareclipse.studio/eternal-pets)
+
 ## Datapacks
  - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
  - [From The Fog](https://lunareclipse.studio/from-the-fog)
