@@ -1,12 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://www.lunareclipse.studio/assets/img/logo_newest_est.png" height="150">
+</p>
+<br>
 
-<!--
+## Maps
+- [Mystery Manor](https://lunareclipse.studio/mystery-manor)
+s
+## Datapacks
+ - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
+ - [From The Fog](https://lunareclipse.studio/from-the-fog)
+ - [Feathery Messengers](https://lunareclipse.studio/feathery-messengers)
+ - [Eternal Pets](https://lunareclipse.studio/eternal-pets)
+ - [Architect's Toolbox](https://lunareclipse.studio/architects-toolbox)
 
-**Here are some ideas to get you started:**
+## Resourcepacks
+ - [Creeperz' Cleaner Creepers](https://www.lunareclipse.studio/creeperz-cleaner-creepers)
+ - [Astra's Amazing Foxes](https://lunareclipse.studio/astras-amazing-foxes)
+ - [Two Moons](https://lunareclipse.studio/two-moons)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Socials
+ - [Website](https://lunareclipse.studio/)
+ - [Twitter](https://twitter.com/LunarEclipseMC)
+ - [Planet Minecraft](https://lunareclipse.studio/pmc)
+ - [Instagram](https://lunareclipse.studio/instagram)
+ - [TikTok](https://www.tiktok.com/@lunarstudios.official)
+ - [Youtube](https://lunareclipse.studio/youtube)
+ - [Email](mailto:lunareclipsestudios2022@gmail.com)
