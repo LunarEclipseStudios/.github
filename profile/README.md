@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://www.lunareclipse.studio/assets/img/logo_newest_est.png" height="130">
+  <img src="https://www.lunareclipse.studio/assets/img/logo_newest_est.png" height="100">
 </p>
 <br>
 
 ## Maps
 - [Mystery Manor](https://lunareclipse.studio/mystery-manor)
-s
+
 ## Datapacks
  - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
  - [From The Fog](https://lunareclipse.studio/from-the-fog)
