@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.lunareclipse.studio/assets/img/logo_newest_est.png" height="150">
+  <img src="https://www.lunareclipse.studio/assets/img/logo_newest_est.png" height="130">
 </p>
 <br>
 
