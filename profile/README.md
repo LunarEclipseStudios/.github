@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/26262092/202349803-a7780298-f529-49c6-9ed1-6c19f0f420dd.png]" height="50">
+  <img src="https://lunareclipse.studio/assets/img/logo_newest_est.png" height="300">
 </p>
 <br>
 
