@@ -21,6 +21,7 @@
  - [Architect's Toolbox](https://lunareclipse.studio/architects-toolbox)
 
 ## Resourcepacks
+ - [Fancy Foliage](https://www.lunareclipse.studio/fancy-foliage)
  - [Creeperz' Cleaner Creepers](https://www.lunareclipse.studio/creeperz-cleaner-creepers)
  - [Astra's Amazing Foxes](https://lunareclipse.studio/astras-amazing-foxes)
  - [Two Moons](https://lunareclipse.studio/two-moons)
