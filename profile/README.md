@@ -5,26 +5,26 @@
 
 
 ## Maps
-- [Mystery Manor](https://lunareclipse.studio/mystery-manor)
+- [Mystery Manor](https://lunareclipse.studio/creations/mystery-manor)
 
 ## Fabric/Forge Mods
- - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
- - [From The Fog](https://lunareclipse.studio/from-the-fog)
- - [Feathery Messengers](https://lunareclipse.studio/feathery-messengers)
- - [Eternal Pets](https://lunareclipse.studio/eternal-pets)
+ - [Eyes In The Sky](https://lunareclipse.studio/creations/eyes-in-the-sky)
+ - [From The Fog](https://lunareclipse.studio/creations/from-the-fog)
+ - [Feathery Messengers](https://lunareclipse.studio/creations/feathery-messengers)
+ - [Eternal Pets](https://lunareclipse.studio/creations/eternal-pets)
 
 ## Datapacks
- - [Eyes In The Sky](https://lunareclipse.studio/eyes-in-the-sky)
- - [From The Fog](https://lunareclipse.studio/from-the-fog)
- - [Feathery Messengers](https://lunareclipse.studio/feathery-messengers)
- - [Eternal Pets](https://lunareclipse.studio/eternal-pets)
- - [Architect's Toolbox](https://lunareclipse.studio/architects-toolbox)
+ - [Eyes In The Sky](https://lunareclipse.studio/creations/eyes-in-the-sky)
+ - [From The Fog](https://lunareclipse.studio/creations/from-the-fog)
+ - [Feathery Messengers](https://lunareclipse.studio/creations/feathery-messengers)
+ - [Eternal Pets](https://lunareclipse.studio/creations/eternal-pets)
+ - [Architect's Toolbox](https://lunareclipse.studio/creations/architects-toolbox)
 
 ## Resourcepacks
- - [Fancy Foliage](https://www.lunareclipse.studio/fancy-foliage)
- - [Creeperz' Cleaner Creepers](https://www.lunareclipse.studio/creeperz-cleaner-creepers)
- - [Astra's Amazing Foxes](https://lunareclipse.studio/astras-amazing-foxes)
- - [Two Moons](https://lunareclipse.studio/two-moons)
+ - [Fancy Foliage](https://www.lunareclipse.studio/creations/fancy-foliage)
+ - [Creeperz' Cleaner Creepers](https://www.lunareclipse.studio/creations/creeperz-cleaner-creepers)
+ - [Astra's Amazing Foxes](https://lunareclipse.studio/creations/astras-amazing-foxes)
+ - [Two Moons](https://lunareclipse.studio/creations/two-moons)
 
 ## Socials
  - [Website](https://lunareclipse.studio/)
