@@ -14,7 +14,7 @@
  - [Eternal Pets](https://lunareclipse.studio/creations/eternal-pets)
 
 ## Datapacks
- - [Lunaris](https://github.com/LunarEclipseStudios/Lunaris)
+ - [Lunaris](https://lunareclipse.studio/creations/lunaris)
  - [Eyes In The Sky](https://lunareclipse.studio/creations/eyes-in-the-sky)
  - [From The Fog](https://lunareclipse.studio/creations/from-the-fog)
  - [Feathery Messengers](https://lunareclipse.studio/creations/feathery-messengers)
